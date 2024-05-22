@@ -1,0 +1,10 @@
+1.- Desde las ultimas actualizaciones del navegador Chrome, es necesario usar una dependencia de 
+Serenity mayor o igual al 4.11.0 https://stackoverflow.com/questions/76911590/could-not-start-a-new-session-response-code-500-message-session-not-created
+
+2.- Una ventaja muy practica de usar Serenity con Gherkin es que los casos de pruebas son escritos
+mediante un lenguaje natural lo que permite la comprension del escenario tanto para el perfil funcional
+y tecnico
+
+3.- La automatizacion de pruebas ayuda a aumentar la eficiencia de los tests, ya que de forma automatica
+un software puede probar alguna pantalla o funcionalidad nueva
+
